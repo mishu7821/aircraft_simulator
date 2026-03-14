@@ -9,7 +9,7 @@ Low-poly multiplayer aircraft dogfighting for the browser using `Three.js` on th
 - Keyboard-first controls with gamepad support
 - Real-time multiplayer room join flow
 - Server-authoritative shooting, damage, kills, respawn, and score sync
-- Kill feed, scoreboard, audio cues, contrails, and brighter tracer effects
+- scoreboard, audio cues, contrails, and brighter tracer effects
 
 ## Local Development
 
