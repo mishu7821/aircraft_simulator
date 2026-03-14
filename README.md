@@ -39,7 +39,7 @@ Keyboard:
 
 - `W` / `S`: pitch up/down
 - `A` / `D`: yaw left/right
-- `Arrow keys`: alternate pitch/yaw support
+- `Arrow keys`: alternate pitch support
 - `R` / `F`: throttle up/down
 - `Shift`: boost
 - `Space`: fire
@@ -48,7 +48,7 @@ Keyboard:
 
 Gamepad:
 
-- Left stick: pitch and yaw
+- Left stick: pitch
 - Left / right triggers: throttle down / up
 - `A` or right bumper: fire
 - `X` / Square: missile lock shot
